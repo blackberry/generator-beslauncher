@@ -22,6 +22,14 @@ Yeoman is an NPM module, and installed globally through [Node.js](http://nodejs.
 
 ### Running the Generator
 
+To run the generator run the following from terminal / command-prompt
+
+`` yo beslauncher``
+
+or, to list all installed generators and manually run it
+
+``yo``
+
 The generator will prompt you for eight answers.
 
 1. **Name** - Displayed under the app icon.
