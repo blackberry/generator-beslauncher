@@ -2,6 +2,10 @@
 
 This is a Yeoman generator that will build a cross platform web launcher (an icon that sits on the phone, which launches the system browser to a predefined URL) typically installed in the workspace, and based upon the [BES10 Web-Launcher](https://github.com/blackberry/BES10-WebWorks/tree/master/webworks-launcher) Sample app.
 
+**Author**
+
+* [Chad Tetreault](http://www.github.com/ctetreault)
+
 ### Setup
 
 Before using this generator you must have your development environment(s) setup, and ready to roll for each platform you plan on building an app for. Refer to the Cordova Platform Guides which will walk you through the setup process.

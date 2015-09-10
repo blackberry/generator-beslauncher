@@ -1,15 +1,16 @@
 {
     "name": "generator-beslauncher",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Creates a cross-platform web-launcher to be installed in the workspace. the app will simply invoke the system browser with the pre-defined url, and close the app in the background. aka. bookmarks in the workspace.",
     "author": "Chad Tetreault",
     "license": "Apache-2.0",
     "keywords": [
         "yeoman-generator",
+        "blackberry",
         "blackberry10",
         "cordova",
-        "bes",
-        "weblancher"
+        "weblancher",
+        "bookmark"
     ],
     "repository": {
         "type": "git",
