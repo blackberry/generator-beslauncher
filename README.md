@@ -4,7 +4,7 @@ This is a Yeoman generator that will build a cross platform web launcher (an ico
 
 **Author**
 
-* [Chad Tetreault](http://www.github.com/ctetreault)
+* [Chad Tetreault](http://bit.ly/chadli123)
 
 ### Setup
 
